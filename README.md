@@ -206,3 +206,20 @@ To explore the dashboard:
 ### Thank you for exploring this project! 🍎
 
 </div>
+
+---
+
+## Author
+
+**Stella Mary Biju**
+
+- GitHub: https://github.com/stelabiju 
+- LinkedIn: https://www.linkedin.com/in/stelabiju
+
+---
+
+## Copyright
+
+© 2026 Stella Mary Biju. All rights reserved.
+
+This project has been developed for portfolio and educational purposes. Please do not copy, reproduce, or submit this work as your own without appropriate permission or attribution.
