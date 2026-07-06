@@ -201,14 +201,6 @@ To explore the dashboard:
 
 ---
 
-<div align="center">
-
-### Thank you for exploring this project! 🍎
-
-</div>
-
----
-
 ## Author
 
 **Stella Mary Biju**
